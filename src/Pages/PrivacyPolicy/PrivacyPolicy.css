@@ -1,0 +1,22 @@
+.privacyContainer {
+  width: 1120px;
+  height: 854px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+  margin-bottom: 8px;
+  background-color: #ffffff;
+}
+
+.privacyDescription {
+  width: 1080px;
+  height: 814px;
+  padding: 20px;
+  /* background-color: aqua; */
+}
+
+.privacyList {
+  margin: 0;
+  padding: 0;
+  margin-bottom: 20px;
+}

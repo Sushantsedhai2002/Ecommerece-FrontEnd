@@ -1,0 +1,23 @@
+.TCContainer {
+  width: 1120px;
+  /* height: 1331px; */
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  background-color: #ffffff;
+  /* padding: 20px; */
+}
+
+.TCContainer p {
+  padding-left: 20px;
+  margin: 0;
+}
+
+.TCList {
+  font-size: 20px;
+  font-weight: 500;
+  padding: 0;
+  margin: 0;
+  padding-bottom: 8px;
+}

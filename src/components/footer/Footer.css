@@ -1,0 +1,91 @@
+.footerContainer {
+  width: 1120px;
+  height: 299px;
+  margin-left: auto;
+  margin-right: auto;
+  background: #f5f5f5;
+  margin-top: 8px;
+}
+/* .footerSearch {
+  display: flex;
+  /* background-color: black; */
+/* width: 550px;
+  align-items: center;
+  margin-left: 285px;
+  position: relative;
+  z-index: 100;
+} */
+
+/* .footerSearchBar {
+  width: 550px;
+  height: 49px;
+  padding-left: 48px;
+}
+.searchIcon {
+  width: 24px;
+  height: 24px;
+  margin-left: 16px;
+  position: absolute;
+  align-items: center;
+}
+.searchButton {
+  width: 77px;
+  height: 44px;
+  position: absolute;
+  right: 6px;
+  background-color: #46474b;
+  border-radius: 4px;
+  color: white;
+} */
+
+.footerInfo {
+  width: 1121px;
+  height: 243px;
+  background-color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 94px;
+  /* padding: 20px 20px 20px 20px; */
+}
+.footerInfoTitle {
+  color: orange;
+}
+.FooterMap {
+  width: 366px;
+  height: 203px;
+  border: 0;
+}
+.Footer-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  margin: 16px 0;
+}
+
+.FooterListChild {
+  margin-bottom: 8px;
+}
+
+.footerInfoThird {
+  margin-left: 0;
+}
+
+.FooterLast {
+  width: 1120px;
+  height: 48px;
+  margin-top: 8px;
+  display: flex;
+  align-items: center;
+  gap: 599px;
+  background-color: white;
+}
+.FooterLastLeft {
+  display: flex;
+  gap: 11px;
+}
+
+.FooterSocialIcons {
+  width: 24px;
+  height: 24px;
+}

@@ -1,0 +1,31 @@
+.footerSearch {
+  display: flex;
+  /* background-color: black; */
+  width: 550px;
+  align-items: center;
+  margin-left: 285px;
+  position: relative;
+  z-index: 100;
+}
+
+.footerSearchBar {
+  width: 550px;
+  height: 49px;
+  padding-left: 48px;
+}
+.searchIcon {
+  width: 24px;
+  height: 24px;
+  margin-left: 16px;
+  position: absolute;
+  align-items: center;
+}
+.searchButton {
+  width: 77px;
+  height: 44px;
+  position: absolute;
+  right: 6px;
+  background-color: #46474b;
+  border-radius: 4px;
+  color: white;
+}

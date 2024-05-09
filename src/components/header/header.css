@@ -1,0 +1,126 @@
+.brandName {
+  display: flex;
+  align-items: center;
+  font-family: "Kaushan Script";
+  color: #000000;
+  font-size: 36px;
+  font-weight: 400px;
+  line-height: 52.24px;
+  width: 182px;
+  height: 52px;
+  top: 38px;
+  left: 80px;
+  border-radius: 8px;
+  vertical-align: top;
+}
+
+.searchBar {
+  display: flex;
+  align-items: center;
+  width: 388px;
+  height: 24px;
+  top: 52px;
+  left: 262px;
+  vertical-align: top;
+}
+
+.personLogo {
+  display: flex;
+  align-items: center;
+  width: 24px;
+  height: 24px;
+  top: 52px;
+  left: 717px;
+}
+.LS {
+  display: flex;
+  align-items: center;
+  font-family: Inter;
+  font-weight: 400px;
+  font-size: 16px;
+  line-height: 19.36px;
+  color: 000000;
+}
+.verticalLine {
+  border: 2px solid #46474b;
+  width: 1px;
+  height: 100px;
+
+  /*height: 10px;
+  border-color: #46474b;
+  width: 28px;
+  top: 50px;
+  left: 819px;
+  transform: rotate(-90deg);
+  */
+}
+
+.headerContainer {
+  display: flex;
+  width: 1120px;
+  margin-top: 40px;
+  margin-left: auto;
+  margin-right: auto;
+  gap: 40px;
+  align-items: center;
+}
+.headerCenter {
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+
+.headerCenterSearch {
+  width: 340px;
+  height: 38px;
+  padding-left: 48px;
+  border: 1px solid black;
+  
+  border: none;
+  border-radius: 8px;
+  outline: none;
+}
+
+.headerCenterSearch input::placeholder {
+  padding-left: 48px;
+}
+
+.headerIcon {
+  width: 24px;
+  height: 24px;
+}
+.headerSearchIcon {
+  position: absolute;
+  top: 8px;
+  left: 10px;
+  display: flex;
+  align-items: center;
+}
+/* .headerWest{
+  padding:0;
+} */
+
+.headerWest {
+  width: 332px;
+}
+.headerWestChildren {
+  list-style-type: none;
+  display: flex;
+  gap: 20px;
+  padding: 0;
+}
+.headerWestChild {
+  display: flex;
+  gap: 16px;
+}
+
+.headerWestButton {
+  border: none;
+  cursor: pointer;
+  align-items: center;
+  display: flex;
+}
+
+.headerLink {
+  text-decoration: none;
+}

@@ -1,0 +1,49 @@
+.SignupContainer {
+  width: 1120px;
+  height: 584px;
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 40px;
+  padding-bottom: 20px;
+  /* background-color: aqua; */
+}
+
+.SignupContainerLeft {
+  width: 550px;
+  height: 584px;
+  margin-right: 20px;
+}
+
+.SignupContainerRight {
+  width: 550px;
+  height: 584px;
+  background-color: white;
+}
+
+.SignupContainerRightFirst {
+  width: 191px;
+  height: 60px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.SignupContainerRightSecond {
+  margin-top: 20px;
+}
+
+.SignupIcon {
+  width: 24px;
+  height: 24px;
+}
+
+.SignupInput {
+  width: 518px;
+  height: 40px;
+  outline: none;
+  margin-right: 16px;
+  margin-top: 8px;
+  margin-bottom: 17px;
+  font-size: 16px;
+  font-weight: 400;
+}

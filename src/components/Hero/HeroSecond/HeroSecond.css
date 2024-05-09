@@ -1,0 +1,107 @@
+.heroSecondContainer {
+  width: 1117px;
+  /* height: 294px; */
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 38px;
+  margin-bottom: 8px;
+}
+
+.heroSecondContainerNorth {
+  width: 1120px;
+  height: 40px;
+  font-size: 28px;
+  font-weight: 600;
+  line-height: 33.89px;
+  margin-bottom: 28px;
+  display: flex;
+  align-items: center;
+  gap: 520px;
+}
+
+.heroSecondConatinerNorthButton {
+  width: 32px;
+  height: 32px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 12px;
+  background-color: grey;
+  cursor: pointer;
+  margin: 0;
+  border: none;
+  outline: none;
+}
+
+.arrowIcon {
+  width: 24px;
+  height: 24px;
+  padding: 0;
+  margin: 0;
+  /* margin-right: 13px; */
+  /* margin-left: 13px; */
+}
+
+.heroSecondContainerSouth {
+  width: 1117px;
+  height: 232px;
+  display: flex;
+  gap: 20px;
+  overflow-x: scroll;
+  overflow-y: hidden;
+  transition: transfrom 0.25s ease;
+}
+
+.heroSecondContainerSouthOne {
+  width: 170px;
+  height: 232px;
+  display: flex;
+  /* overflow-x: scroll; */
+  align-items: center;
+  scroll-behavior: smooth;
+}
+
+.heroSecondContainerSouth::-webkit-scrollbar {
+  display: none;
+}
+
+.heroSecondContainerSouthImage {
+  /* display: flex; */
+  /* justify-content: flex-start; */
+  /* align-items: center; */
+  margin-right: 20px;
+  background-color: white;
+  /* background-color: aqua; */
+}
+.heroSecondContainerSouthDescription {
+  width: 170px;
+  height: 62px;
+  background-color: white;
+
+  /* background-color: azure; */
+}
+.heroSecondContainerSouthDescriptionText {
+  width: 98px;
+  /* height: 38px; */
+  margin: 12px 36px 12px 36px;
+  text-align: center;
+  font-size: 16px;
+  font-family: "Inter", sans-serif;
+  font-weight: 400;
+  padding: 0;
+  margin-top: 0px;
+}
+
+.pictureContainer {
+  width: 170px;
+  height: 232px;
+  background-color: white;
+  margin-right: 20px;
+}
+
+.pictureTitle {
+  font-size: 16px;
+  font-weight: 400;
+  color: #000000;
+  text-align: center;
+}

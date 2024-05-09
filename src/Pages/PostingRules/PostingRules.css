@@ -1,0 +1,12 @@
+.postingrulesContainer {
+  width: 1120px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+  margin-bottom: 8px;
+  background-color: white;
+}
+
+.postingrulesContainer p {
+  padding: 20px;
+}

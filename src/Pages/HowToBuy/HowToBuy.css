@@ -1,0 +1,50 @@
+.howtobuyContainer {
+  width: 1120px;
+
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  padding: 0;
+  /* background-color: aliceblue; */
+}
+
+.howtobuyContainerFirst {
+  width: 1120px;
+  /* height: 298px; */
+  margin: 0;
+  padding: 0;
+  background-color: #ffffff;
+  margin-bottom: 20px;
+}
+
+.howtobuyContainerFirstDescription {
+  width: 1080px;
+  /* height: 209px; */
+  padding-left: 20px;
+  padding-bottom: 20px;
+  padding-right: 20px;
+  font-size: 16px;
+  font-weight: 400;
+}
+
+.howtobuyList {
+  padding: 0;
+  margin: 0;
+  margin-bottom: 20px;
+}
+
+.howtobuyContainerSecond {
+  display: flex;
+  gap: 20px;
+  padding: 0;
+  margin: 0;
+  margin-bottom: 20px;
+}
+
+.howtobuyContainerThird {
+  width: 360px;
+  /* height: 805px; */
+  margin-left: auto;
+  margin-right: auto;
+}

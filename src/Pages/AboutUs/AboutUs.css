@@ -1,0 +1,121 @@
+.aboutUsContainer {
+  width: 1120px;
+  height: 2548px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #f5f5f5;
+}
+
+.aboutUsFirst {
+  padding: 0;
+  width: 1120px;
+  height: 681px;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  /* background-color: red; */
+}
+
+.aboutUsSecond {
+  display: flex;
+  width: 1120px;
+  height: 681px;
+  padding: 0;
+  margin-bottom: 40px;
+  background-color: white;
+}
+
+.aboutUsSecondLeft {
+  width: 530px;
+  height: 641px;
+  padding: 0;
+  margin: 20px 20px 20px 20px;
+  /* background-color: aliceblue; */
+}
+
+.aboutUsSecondRight {
+  width: 530px;
+  height: 477px;
+  padding: 0;
+  margin-top: 20px;
+  margin-right: 20px;
+  margin-bottom: 184px;
+  /* background-color: aliceblue; */
+}
+
+.aboutUsThird {
+  width: 1120px;
+  height: 513px;
+  /* margin-bottom: 40px; */
+  display: flex;
+  padding: 0;
+}
+
+.aboutUsThirdLeft {
+  width: 665px;
+  height: 513px;
+  background-color: white;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.aboutUsThirdRight {
+  width: 455px;
+  height: 513px;
+  padding: 0;
+  margin: 0;
+}
+
+.effortsIcon {
+  width: 80px;
+  height: 80px;
+}
+
+.aboutUsThirdLeftChild {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.aboutUsThirdLeftChildLeft {
+  margin-right: 16px;
+}
+
+.effortsTitle {
+  font-family: "inter";
+  font-weight: 500;
+  font-size: 20px;
+  margin-bottom: 8px;
+  padding: 0;
+  margin-top: 0;
+}
+
+.effortsDescription {
+  font-family: "inter";
+  font-weight: 400;
+  font-size: 20px;
+  padding: 0;
+  margin: 0;
+}
+
+.aboutUsFourth {
+  width: 1116px;
+  height: 571px;
+  display: flex;
+  align-items: center;
+}
+
+.aboutUsFourthLeft {
+  width: 455px;
+  height: 571px;
+  margin-right: 20px;
+}
+
+.aboutUsFourthRight {
+  width: 641px;
+  height: 541px;
+  background-color: white;
+}
+
+.aboutUsFourthRightDescription{
+  margin: 20px 16px 20px 16px;
+}

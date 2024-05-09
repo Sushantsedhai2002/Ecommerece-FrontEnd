@@ -1,0 +1,75 @@
+.helpcenterContainer {
+  width: 1120px;
+  height: 890px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 40px;
+  margin-bottom: 20px;
+}
+
+.helpcenterContainerFirst {
+  margin: 0;
+  padding: 0;
+  padding-left: 740px;
+  position: relative;
+  padding-top: 2px;
+  padding-bottom: 18px;
+}
+
+.helpInput {
+  width: 374px;
+  height: 48px;
+  font-size: 16px;
+  font-weight: 400;
+
+  outline: none;
+  border: 1px white;
+}
+
+.helpButton {
+  width: 69px;
+  height: 40px;
+  background-color: #fa902d;
+  color: white;
+  position: absolute;
+  top: 5px;
+  right: 6px;
+  border: none;
+  cursor: pointer;
+}
+
+.helpcenterContainerSecond {
+  padding: 0;
+  margin: 0;
+  width: 1120px;
+  height: 808px;
+  /* background-color: #ffffff; */
+  /* background-color: #fa902d; */
+}
+
+.helpcenterContainerSecondDescription {
+  width: 1120px;
+  height: 152px;
+  margin: 0;
+  margin-bottom: 8px;
+  background-color: white;
+}
+
+.DescriptionTitle {
+  margin: 0;
+  font-size: 20px;
+  font-weight: 500;
+  padding-top: 20px;
+  padding-left: 20px;
+  padding-bottom: 16px;
+  line-height: 24.2px;
+}
+
+.DescriptionInfo {
+  font-size: 20px;
+  font-weight: 400;
+  padding: 0;
+  padding-left: 20px;
+  margin: 0;
+  line-height: 24.2px;
+}

@@ -1,0 +1,101 @@
+.contactUsContainer {
+  width: 1120px;
+  height: 636px;
+  /* background: #f5f5f5; */
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* p {
+  color: #ffffff;
+} */
+.contactUsContainerTop {
+  width: 184px;
+  height: 66px;
+  margin-top: 20px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.contactUsContainerBottom {
+  width: 1120px;
+  height: 540px;
+  padding: 0;
+  margin-top: 20px;
+  display: flex;
+  /* align-items: center; */
+}
+
+.contactUsContainerBottomLeft {
+  width: 550px;
+  height: 251px;
+  background-color: #fa902d;
+  padding-left: 20px;
+  margin-right: 20px;
+}
+
+.contactUsContainerBottomRight {
+  width: 550px;
+  height: 540px;
+  background-color: #fa902d;
+}
+
+.contactUsIcon {
+  width: 24px;
+  height: 24px;
+  margin: 0;
+  padding: 0;
+  margin-right: 8px;
+}
+
+.contactUsContainerBottom p {
+  color: #ffffff;
+  font-family: "Lato", sans-serif;
+}
+
+.contactUsContainerBottomLeftInfo {
+  display: flex;
+  align-items: center;
+  margin-top: 12px;
+  padding: 0;
+  /* margin-left: 20px; */
+}
+
+.contactUsContainerBottomLeftInfo p {
+  font-size: 16px;
+  font-weight: 400px;
+}
+
+.contactUsContainerBottomRightInterior {
+  width: 510px;
+  height: 436px;
+  /* background-color: black; */
+  margin: 20px;
+}
+
+.aboutUsInput {
+  width: 506px;
+  height: 48px;
+  background-color: #ffffff;
+  outline: none;
+  border: none;
+  margin-bottom: 12px;
+}
+
+.InteriorInfo {
+  display: flex;
+  align-items: center;
+  margin-bottom: 8px;
+}
+
+.contactUsbutton {
+  width: 76px;
+  height: 35px;
+  background-color: #ffb875;
+  border: none;
+  font-size: 16px;
+  font-weight: 400;
+  color: #ffffff;
+  text-align: center;
+  cursor: pointer;
+}
